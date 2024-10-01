@@ -1,3 +1,8 @@
+> **THIS WORKSHOP HAS BEEN ARCHIVED**
+> 
+> ACCESS THE CURRENT VERSION AT https://aka.ms/eap/rwa/dotnet/workshop
+
+
 # Reliable Web Apps Pattern - .NET Workshop
 
 [![.NET Build](https://github.com/Azure/reliable-web-app-pattern-dotnet-workshop/actions/workflows/dotnet.yml/badge.svg)](https://github.com/Azure/reliable-web-app-pattern-dotnet-workshop/actions/workflows/dotnet.yml)
